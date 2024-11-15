@@ -1,3 +1,6 @@
+This is a basic chat application built with a Convex backend and Next.js frontend, featuring a clean, minimal UI. It allows users to send and receive messages in real-time, leveraging Convex’s backend-as-a-service capabilities for efficient data handling and real-time synchronization. The setup provides a straightforward and responsive chat experience with an easy-to-navigate interface, ideal for quick messaging applications.
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
